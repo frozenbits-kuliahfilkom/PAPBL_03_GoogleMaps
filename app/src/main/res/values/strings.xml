@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS_App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_refresh">Refresh</string>
+</resources>
